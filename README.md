@@ -22,4 +22,4 @@ You need to have Python installed on your computer. You can download it from the
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/python-simple-calculator.git
+   git clone https://github.com/ganesh42shrma/simple-calculator-py.git
